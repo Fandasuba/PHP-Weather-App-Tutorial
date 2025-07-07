@@ -1,3 +1,6 @@
+<!-- Old file, just comparing my old file to the refactored file. -->
+
+
 <?php
 require '../config/config.php';
 echo "<p> Testing the FetchCityData API Call </p>";
